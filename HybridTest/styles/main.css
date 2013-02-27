@@ -3,9 +3,17 @@ body
     font: Arial, sans-serif;
 }
 
+.div-bg
+{
+    background: url(../images/bg.png);
+}
+.div-bgimg
+{
+    background-image: url(../images/bg.png);
+}
+
 .buttonArea,
 .footerText,
-#geoLocationContainer,
 #helloWorldInput,
 #helloWorldText
 {
@@ -24,3 +32,5 @@ body
     color: black;
     padding: 7px;
 }
+
+
